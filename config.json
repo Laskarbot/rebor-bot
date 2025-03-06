@@ -1,0 +1,9 @@
+{
+    "taskIds": [1, 2, 4, 15, 20, 21, 23, 101, 200, 201, 202, 203, 204, 205, 301, 302, 401, 501, 601, 602, 701],
+    "delayBetweenRequests": 2000,
+    "apiEndpoints": {
+      "profile": "https://r8-server-production.up.railway.app/api/auth/profile",
+      "task": "https://r8-server-production.up.railway.app/api/task/task"
+    }
+  }
+  
