@@ -26,12 +26,12 @@ LASKAR-BOT adalah bot otomatis yang digunakan untuk login dan mengklaim task har
 1. **Pastikan** Anda telah menginstal **Node.js** di perangkat Anda.
 2. **Clone repository** atau **download** file bot ini.
    ```bash
-   git clone https://github.com/username/LASKAR-BOT.git
-   cd LASKAR-BOT
+   git clone https://github.com/Laskarbot/rebor-bot.git
+   cd rebor-bot.git
    ```
 3. **Install dependencies** yang diperlukan:
    ```bash
-   npm install
+   npm install axios
    ```
 4. **Tambahkan token akun Anda** ke dalam file `tokens.txt`.
 5. **Edit konfigurasi** di file `config.json` jika diperlukan.
